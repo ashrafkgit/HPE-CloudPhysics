@@ -14,16 +14,25 @@
 | Serial No | Document Link |
 | ------ | ------ |
 | 1 | [Introduction][PlDa] |
-| 2 | [Linux Boot Process][PlDb] |
-| 3 | [Linux Distributions][PlDc] |
-| 4 | [Linux Directory Structure][PlDd] |
-| 5 | [Linux Filesystem][PlDe] |
+| 2 | [Install the HPE CloudPhysics Virtual Appliance][PlDb] |
+| 3 | [Invite and manage additional users in your organization][PlDc] |
+| 4 | [Locate and install your Appliance Token][PlDd] |
+| 5 | [Observer Offline Email Support][PlDe] |
+| 6 | [HPE CloudPhysics Customer User Guide][PlDf] |
+| 7 | [vCenter Priviledges required by HPE CloudPhysics Appliance][PlDg] |
+| 8 | [HPE CloudPhysics Security FAQ][PlDh] |
+| 9 | [HPE CloudPhysics Dependency Maps][PlDi] |
+
 
 
 [PlDa]: <./Docs/Introduction.md>
-[PlDb]: <./Linux/Linux Boot Process.md>
-[PlDc]: <./Linux/Linux Distributions.md>
-[PlDd]: <./Linux/Linux Directory Structure.md>
-[PlDe]: <./Linux/Linux Filesystem.md>
+[PlDb]: <./Docs/HPE CloudPhysics Observer installation and troubleshooting reference guide-a50006260enw.pdf>
+[PlDc]: <./Docs/How To Invite and manage additional users to your organization.pdf>
+[PlDd]: <./Docs/How To  Activate the HPE CloudPhysics Virtual Appliance with a Token.pdf>
+[PlDe]: <./Docs/Observer Offline Support.pdf>
+[PlDf]: <./Docs/Reference-Guide-HPE-CloudPhysics-Customer-User-Guide.pdf>
+[PlDg]: <./Docs/vCenter Privileges.pdf>
+[PlDh]: <./Docs/HPE CloudPhysics Security - Frequently asked questions-a00117306enw.pdf>
+[PlDi]: <./Docs/HPE CloudPhysics Dependency Mapping - Frequently asked questions-a00117307enw.pdf>
 
 ##
