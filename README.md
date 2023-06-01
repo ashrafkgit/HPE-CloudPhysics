@@ -12,7 +12,7 @@
 
 
 
-> HPE CloudPhysics delivers data-driven insights for smarter IT decisions across edge-to-cloud, enabling IT to_ optimize application workload placement_, _procure right-sized infrastructure services_, and _lower costs_.
+> HPE CloudPhysics delivers data-driven insights for smarter IT decisions across edge-to-cloud, enabling IT to _optimize application workload placement, procure right-sized infrastructure services, and lower costs._
 
 > It provides predictive analytics for _virtual datacenters_, that enable IT teams to proactively manage their virtualized infrastructures while reducing cost and risk. 
 
@@ -28,14 +28,14 @@
 
 
 #
-
+#
 ## What data is used for the analytics platform?
 
-> The platform ingests more than _200 usage metrics_ from virtual machines, physical servers, storage arrays, data stores and network infrastructure to determine where inefficiencies may exist. Based on this data, the platform generates personalized reports on resource utilization and how different technologies may remedy the situation.
+> The platform ingests more than **200 usage metrics** from virtual machines, physical servers, storage arrays, data stores and network infrastructure to determine where inefficiencies may exist. Based on this data, the platform generates personalized reports on resource utilization and how different technologies may remedy the situation.
 
-> **The CloudPhysics data lake** -  includes more than 200 trillion data samples from more than 1 million virtual machines instances.
+> **The CloudPhysics data lake** -  includes more than **200 trillion data samples** from more than **1 million virtual machines instances**.
 
-> **The Infosight data lake** - collects information from HPE’s massive installed base to automatically remediate infrastructure issues and has 1,250 trillion data points in a data lake that has been accumulated over more than a decade!
+> **The Infosight data lake** - collects information from HPE’s massive installed base to automatically remediate infrastructure issues and has **1,250 trillion data points** in a data lake that has been accumulated over **more than a decade**!
 
 #
 
