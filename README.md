@@ -1,4 +1,7 @@
+![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/28c7fd3c-9525-472e-a71e-de84e96a0bdf)
 ![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/c1e5e945-ccb5-4ad8-8a7d-95a3795d6c54)
+![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/0bbd6169-439b-4d49-95b4-d22e474e14ee)
+
 ##
    ###### | (SaaS) software-as-a-service - based analytics platform | AI-based hybrid cloud assessment tool |
    
