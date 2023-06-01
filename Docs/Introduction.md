@@ -48,11 +48,11 @@ CloudPhysics was acquired by Hewlett Packard Enterprise on Feb 23, 2021.
 **Work Flows of CloudPhysics**
 ##
 
-- CloudPhysics collects data from virtualized environement by a very small virtual appliance called CloudPhysics Server ( Virtual Instance)
+- CloudPhysics collects data from virtualized environement by a very small virtual appliance called CloudPhysics Server (Virtual Instance Deployed in Virtualized Infrastructure)
 
-- Collects data from vmWARE vCenter through "read only" API's
+- Collects data from VMware vCenter through "read only" API's
 
-- It processes data and shares with CloudPhysics through secure encrypted connection to cloud services over port 443 and TLS 1.2 
+- Then, it processes data and shares with CloudPhysics through secure encrypted connection to cloud services over port 443 and TLS 1.2 
 
 - It requires access to internet & Vmware vCenter
 
