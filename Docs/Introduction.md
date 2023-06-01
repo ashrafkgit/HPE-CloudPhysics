@@ -65,7 +65,7 @@ _Overwall it brings workload, performance, compliance and compatibility in check
 
 _Better understanding of Business Goals._
 
-_Adds value to businees by cost, provides operational resilience and business agility._
+_Adds value to businees by cost (TCO), provides operational resilience and business agility._
 
 ##
 ##
