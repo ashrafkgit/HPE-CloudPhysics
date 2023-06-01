@@ -22,6 +22,9 @@
 | 7 | [vCenter Priviledges required by HPE CloudPhysics Appliance][PlDg] |
 | 8 | [HPE CloudPhysics Security FAQ][PlDh] |
 | 9 | [HPE CloudPhysics Dependency Maps][PlDi] |
+| 10 | [Network Troubleshooting][PlDj] |
+| 11 | [IP-Based Firewall Rules/Cloud Migration Issues][PlDk] |
+
 
 
 
@@ -34,5 +37,7 @@
 [PlDg]: <./Docs/vCenter Privileges.pdf>
 [PlDh]: <./Docs/HPE CloudPhysics Security - Frequently asked questions-a00117306enw.pdf>
 [PlDi]: <./Docs/HPE CloudPhysics Dependency Mapping - Frequently asked questions-a00117307enw.pdf>
+[PlDj]: <./Docs/HPE CloudPhysics Virtual Appliance Network Troubleshooting Guide.pdf>
+[PlDk]: <./Docs/IP-Based Firewall Rules or Cloud Migration Issues.pdf>
 
 ##
