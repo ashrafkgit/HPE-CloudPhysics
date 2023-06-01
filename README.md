@@ -6,8 +6,7 @@
 
 ##### |Infrastructure recommendation engine | software-defined opportunity engine (SDOE) | Sizing engine |
 
-![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/565964f9-1536-4c9e-ac3d-53ab7493eff2)
-
+![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/24960051-7d10-4b0c-8758-ce4936c2ff20)
 
 
 ## Document Mapper
