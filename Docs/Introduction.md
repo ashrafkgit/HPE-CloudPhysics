@@ -42,3 +42,26 @@ Founders :  Chetan Conikee, Irfan Ahmad, Jim Kleckner, John Blumenthal, Xiaojun 
 Headquarters Regions :  San Francisco Bay Area, Silicon Valley, West Coast
 
 CloudPhysics was acquired by Hewlett Packard Enterprise on Feb 23, 2021.
+
+##
+##
+**Work Flows of CloudPhysics**
+##
+
+- CloudPhysics collects data from virtualized environement by a very small virtual appliance called CloudPhysics Server ( Virtual Instance)
+
+- Collects data from vmWARE vCenter through "read only" API's
+
+- It processes data and shares with CloudPhysics through secure encrypted connection to cloud services over port 443 and TLS 1.2 
+
+- It requires access to internet & Vmware vCenter
+
+- No agents / probes are deployed to any hosts/desktops OS
+
+
+
+##
+Overwall it brings compliance and compatibility in check of the infrastructure.
+Better understanding of Business Goals.
+Adds value to businees by cost, by administration and effective solutions.
+##
