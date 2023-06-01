@@ -61,7 +61,10 @@ CloudPhysics was acquired by Hewlett Packard Enterprise on Feb 23, 2021.
 
 
 ##
-Overwall it brings compliance and compatibility in check of the infrastructure.
-Better understanding of Business Goals.
-Adds value to businees by cost, by administration and effective solutions.
+_Overwall it brings compliance and compatibility in check of the infrastructure._
+
+_Better understanding of Business Goals._
+
+_Adds value to businees by cost, provides operational resilience and business agility._
+
 ##
