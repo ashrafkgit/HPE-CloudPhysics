@@ -1,10 +1,8 @@
 ##
-## HPE CloudPhysics  
+   ###### | (SaaS) software-as-a-service - based analytics platform | AI-based hybrid cloud assessment tool |
+   
+   ###### | (SDOE) software-defined opportunity engine | Infrastructure recommendation engine | Sizing engine |
 ##
-
-##### |(SaaS) software-as-a-service - based analytics platform | AI-based hybrid cloud assessment tool | 
-
-##### |Infrastructure recommendation engine | software-defined opportunity engine (SDOE) | Sizing engine |
 
 ![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/24960051-7d10-4b0c-8758-ce4936c2ff20)
 
