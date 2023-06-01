@@ -1,10 +1,9 @@
+![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/c1e5e945-ccb5-4ad8-8a7d-95a3795d6c54)
 ##
    ###### | (SaaS) software-as-a-service - based analytics platform | AI-based hybrid cloud assessment tool |
    
    ###### | (SDOE) software-defined opportunity engine | Infrastructure recommendation engine | Sizing engine |
 ##
-
-![image](https://github.com/ashrafkgit/HPE-CloudPhysics/assets/134578702/24960051-7d10-4b0c-8758-ce4936c2ff20)
 
 
 ## Document Mapper
@@ -23,3 +22,5 @@
 [PlDc]: <./Linux/Linux Distributions.md>
 [PlDd]: <./Linux/Linux Directory Structure.md>
 [PlDe]: <./Linux/Linux Filesystem.md>
+
+##
